@@ -14,12 +14,12 @@
     <main>
         <section>
             <h2>Introducción</h2>
-            <img src="https://images.unsplash.com/photo-1581091870622-1e7e084036f5" alt="Equipo de investigación analizando datos" loading="lazy">
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.timeforkids.com%2Fk1%2Ftypes-of-scientists-k1%2F%3Flang%3Des&psig=AOvVaw1AGh_LRNHLYChVb6RBN6v6&ust=1741492408887000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCr9vXK-YsDFQAAAAAdAAAAABAE" alt="Equipo de investigación analizando datos" loading="lazy">
             <p>La investigación en tecnología se basa en métodos y técnicas que permiten el desarrollo de nuevas soluciones e innovaciones en diversas áreas.</p>
         </section>
         <section>
             <h2>Métodos de Investigación</h2>
-            <img src="https://cdn.pixabay.com/photo/2018/04/15/09/07/analytics-3228704_1280.jpg" alt="Visualización de datos y gráficos" loading="lazy">
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcms.rootstack.com%2Fes%2Fes%2Fblog%2Fdesarrollador-de-software-vs-ingeniero-de-software-diferencias&psig=AOvVaw3oBBLw1xcT5mHg4hqppwiT&ust=1741492538448000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLi6xLLL-YsDFQAAAAAdAAAAABAE" alt="Visualización de datos y gráficos" loading="lazy">
             <ul>
                 <li><b>Investigación Cuantitativa:</b> Se basa en datos numéricos y análisis estadísticos.</li>
                 <li><b>Investigación Cualitativa:</b> Se enfoca en la exploración de fenómenos a través de observaciones y entrevistas.</li>
