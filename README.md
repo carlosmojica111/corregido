@@ -19,7 +19,7 @@
         </section>
         <section>
             <h2>Métodos de Investigación</h2>
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcms.rootstack.com%2Fes%2Fes%2Fblog%2Fdesarrollador-de-software-vs-ingeniero-de-software-diferencias&psig=AOvVaw3oBBLw1xcT5mHg4hqppwiT&ust=1741492538448000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLi6xLLL-YsDFQAAAAAdAAAAABAE" alt="Visualización de datos y gráficos" loading="lazy">
+            <img src="https://www.ibero.edu.co/sites/default/files/styles/contenido_dinamico_1920_530/public/2024-10/shutterstock_2458332071.jpg.webp?itok=xhxtBT6e" alt="Visualización de datos y gráficos" loading="lazy">
             <ul>
                 <li><b>Investigación Cuantitativa:</b> Se basa en datos numéricos y análisis estadísticos.</li>
                 <li><b>Investigación Cualitativa:</b> Se enfoca en la exploración de fenómenos a través de observaciones y entrevistas.</li>
