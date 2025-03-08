@@ -14,7 +14,7 @@
     <main>
         <section>
             <h2>Introducción</h2>
-            <img src="https://es.wikipedia.org/wiki/Ingenier%C3%ADa_de_software#/media/Archivo:Coding_Shots_Annual_Plan_high_res-5.jpg" alt="Equipo de investigación analizando datos" loading="lazy">
+            <img src="https://www.teknei.com/wp-content/uploads/2021/11/v617batch2-kul-25-technology.jpg" alt="Equipo de investigación analizando datos" loading="lazy">
             <p>La investigación en tecnología se basa en métodos y técnicas que permiten el desarrollo de nuevas soluciones e innovaciones en diversas áreas.</p>
         </section>
         <section>
