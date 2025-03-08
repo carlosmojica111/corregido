@@ -14,7 +14,7 @@
     <main>
         <section>
             <h2>Introducción</h2>
-            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.timeforkids.com%2Fk1%2Ftypes-of-scientists-k1%2F%3Flang%3Des&psig=AOvVaw1AGh_LRNHLYChVb6RBN6v6&ust=1741492408887000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCr9vXK-YsDFQAAAAAdAAAAABAE" alt="Equipo de investigación analizando datos" loading="lazy">
+            <img src="https://es.wikipedia.org/wiki/Ingenier%C3%ADa_de_software#/media/Archivo:Coding_Shots_Annual_Plan_high_res-5.jpg" alt="Equipo de investigación analizando datos" loading="lazy">
             <p>La investigación en tecnología se basa en métodos y técnicas que permiten el desarrollo de nuevas soluciones e innovaciones en diversas áreas.</p>
         </section>
         <section>
